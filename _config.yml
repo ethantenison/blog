@@ -76,6 +76,8 @@ analytics:
   google:
     tracking_id          : "UA-2011187-3"
 
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.18.1"
 
 # Site Author
 author:
