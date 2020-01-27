@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "mmistakes"
+  username               : &twitter "ethantenison"
 facebook:
-  username               : &facebook "michaelrose"
+  username               : &facebook "Ethan Tenison"
   app_id                 :
   publisher              :
 og_image                 : "site-logo.png" # Open Graph/Twitter default site image
@@ -260,6 +260,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
